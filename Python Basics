@@ -1,2 +1,3 @@
-# Data Tpyes 
-# Data Containers
+#input and output
+a=input()
+print(a)
